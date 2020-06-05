@@ -43,5 +43,5 @@ hospRecov <- dplyr::lag(cumsum(dailyHosp), n=21) #estimated total hospital disch
 totActHosp <- totalHosp - totalDeath - hospRecov #total estimated active hospitalizations
 
 hospRate <- (totalHosp / totalCases) * 100 #percent hospitalizations for total cases
-
+#test
 
