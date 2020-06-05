@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587328282383.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "376132160",
+    "id" : "3AF349A2",
+    "lastKnownWriteTime" : 1591316843,
+    "last_content_update" : 1591316843690,
+    "path" : "~/CoVID 19 Graphs/Figures.R",
+    "project_path" : "Figures.R",
+    "properties" : {
+        "cursorPosition" : "29,109",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
